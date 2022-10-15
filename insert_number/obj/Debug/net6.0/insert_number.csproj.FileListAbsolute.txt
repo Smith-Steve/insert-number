@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Debug\net6.0\insert_number.deps.json
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Debug\net6.0\insert_number.runtimeconfig.json
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Debug\net6.0\insert_number.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Debug\net6.0\insert_number.pdb
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.AssemblyInfo.cs
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.csproj.CopyComplete
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\refint\insert_number.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.pdb
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\insert_number.genruntimeconfig.cache
+C:\Users\Owner\source\repos\insert_number\insert_number\obj\Debug\net6.0\ref\insert_number.dll

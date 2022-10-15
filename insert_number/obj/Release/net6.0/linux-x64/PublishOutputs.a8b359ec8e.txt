@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Release\net6.0\publish\insert_number.deps.json
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Release\net6.0\publish\insert_number.runtimeconfig.json
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Release\net6.0\publish\insert_number.pdb
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Owner\source\repos\insert_number\insert_number\bin\Release\net6.0\publish\insert_number.dll
